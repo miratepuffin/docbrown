@@ -1,4 +1,4 @@
-# This project has been migrated to [Raphtory/Raphtory](https://www.github.com/Raphtory/Raphtory). Please go there for future developments 
+# This project has been migrated to [Pometry/Raphtory](https://www.github.com/Pometry/Raphtory). Please go there for future developments 
 
 <br>
 <p align="center">
